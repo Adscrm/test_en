@@ -18,7 +18,7 @@
 
 Bridge 
 
-![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
+![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=yellow)
 
 * списки_1
 * списки_2
